@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/BP_Player.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/BPC_Health.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/BPI_Damageable.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/Projectiles/BP_Projectile.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/Projectiles/BP_Projectile_Enemy.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/Projectiles/BP_Projectile_Player.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/BP_EnemyChaser.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/5B/Y2Y56V7EOSBSNAC80W1ET1.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/30/MMPO1ED3PD5ZWB3W321Y9U.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/WY/0PPAYMVP3J8FG0007ICSUZ.uasset",
+				"C:/Users/Elton.Lindberg/Documents/Unreal Projects/ShooterGame/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+			]
+		}
+	]
+}
